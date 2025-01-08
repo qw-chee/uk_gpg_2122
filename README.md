@@ -1,4 +1,4 @@
-# uk_gpg_2122
+# UK Gender Pay Gap 2021-22
 This project contains detailed analyses of the gender pay gap in the UK for the years 2021 to 2022. 
 
 The analyses is broken down by industries, cities, and regions. Diagnostic analyses of causes are also presented.
